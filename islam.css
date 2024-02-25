@@ -1,0 +1,215 @@
+/* a:link.eee, a:visited.eee {
+    color: red;
+}
+a:hover.eee {
+    text-decoration: none;
+} */
+/* li:nth-child(3n) {
+    color: red;
+} */
+/* li:nth-child(n+7):nth-child(-n+14) {
+    color: red;
+} */
+/* li:only-child {
+    color: red;
+}
+ul {
+    margin-bottom: 10px;
+}
+p:first-of-type {
+    color: red;
+} */
+/* h2:last-of-type {
+    color: red;
+} */
+/* h2:nth-of-type(2) {
+    color: red;
+}
+h2:nth-of-type(even) {
+    color: red;
+}
+h2:nth-of-type(odd) {
+    color: red;
+} */
+/* h2:nth-last-of-type(2) {
+    color: red;
+}
+h2:nth-last-of-type(even) {
+    color: red;
+}
+h2:nth-last-of-type(odd) {
+    color: red;
+} */
+/* div {
+    border: 3px dashed black;
+    padding: 1px;
+    margin-bottom: 10px;
+}
+div:only-of-type {
+    color: red;
+}
+li:empty {
+    border: 1px solid blue;
+    list-style-type: circle;
+    color: blue;
+    width: 100px;
+}
+li:empty {
+    display: none;
+} */
+/* #elem {
+    width: 200px;
+    height: 100px;
+    color: white;
+    background-color: yellow;
+}
+#elem1 {
+    width: 300px;
+    height: 300px;
+    background-color: purple;
+} */
+/* .elem2 {
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    text-align: center;
+} */
+/* #elem3 {
+    border-width: 5px;
+    border-style: solid ;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
+} */
+/* #elem5 {
+    border-width: 8px;
+    border-style: dotted;
+    border-color: red;
+    width: 300px;
+    height: 200px;
+} */
+/* #elem6 {
+    border-width: 2px;
+    border-style: dashed;
+    border-color: orange;
+    width: 300px;
+    height: 200px;
+}
+#elem7 {
+    border-width: 3px;
+    border-style: ridge;
+    border-color: black;
+    width: 300px;
+    height: 100px;
+} */
+/* #elem8 {
+    border-width: 8px;
+    border-style: double;
+    border-color: blue;
+    width: 300px;
+    height: 200px;
+} */
+/* #elem9 {
+    width: 300px;
+    height: 200px;
+    border-left: 4px solid orange;
+    border-right: 4px solid green;
+    border-top: 4px solid blue;
+    border-bottom: 4px solid red;
+} */
+/* #elem10 {
+    width: 200px;
+    height: 200px;
+    border: 1px solid green;
+    border-radius: 100px;
+} */
+/* #elem11 {
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+    border-radius: 10px 20px 30px 90px;
+} */
+/* #element {
+    width: 500px;
+	height: 300px;
+    border: 3px solid black;
+    background-image: url(/djdjdjdj/fonstola.ru_88218.jpg);
+    background-size: 300px;
+    background-repeat: no-repeat;
+    background-color: blue ;
+} */
+/* body {
+    background-attachment: fixed;
+    background-image: url(/djdjdjdj/sa2-12.jpg);
+    background-repeat: no-repeat;
+    background-size: 1000px;
+}
+#elem15 {
+    width: 400px;
+    margin: 0 auto;
+    text-align: justify;
+    font-weight: bold;
+    font-size: 20px;
+} */
+/* #elik {
+    width: 400px;
+    height: 300px;
+    background-size: 150px;
+    background-repeat: no-repeat;
+    border: 1px solid black;
+    background-position: 30px center;
+    background-image: url(/free-icon-png-file-10452201.png);
+}
+#elementik {
+    width: 400px;
+    height: 400px;
+    background-size: 150px;
+    background-repeat: round;
+    border: 1px solid black;
+    background-image: url(/free-icon-png-file-10452201.png);
+} */
+
+/* Если установить в свойстве list-style-type значение square, то мы получим для нашего списка маркеры в виде квадратиков: */
+/* Значение lower-alpha свойства list-style-type делает нумерацию маленькими (строчными) латинскими буквами: */
+/* #parent {
+    width: 300px;
+    border: 1px solid red;
+}
+#child {
+    height: 100px;
+    border: 1px solid green;
+    margin: 30px;
+} */
+/* #box {
+    width: 400px;
+    border: 1px solid blue;
+    border-style: dashed;
+}
+#box1 {
+    height: 300px;
+    border: 1px solid orange;
+    margin: 40px;
+} */
+/* #wow {
+    width: 300px;
+    height: 300px;
+    border: 1px solid red;
+}
+#wow1 {
+    height: 200px;
+    width: 200px;
+    border: 1px solid green;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 50px;
+    margin-right: 50px;
+} */
+#wer {
+    width: 300px;
+    border: 1px solid red;
+}
+#wer1 {
+    height: 100px;
+    border: 1px solid green;
+    margin: 10px 20px 30px 40px;
+}
